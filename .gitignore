@@ -1,0 +1,5 @@
+.idea
+README.md
+bin/*
+obj/*
+.DS_Store
